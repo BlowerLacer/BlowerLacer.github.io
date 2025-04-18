@@ -96,10 +96,11 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: butterfly
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: 'git'
-  repo: 'https://github.com/BlowerLacer/BLowerLacer.github.io'
+  type: git
+  repo: https://github.com/BlowerLacer/BlowerLacer.github.io
+  branch: gh-pages
